@@ -1,4 +1,4 @@
-# Comprehensive Math Roadmap for Machine Learning (Without Timeline)
+# Comprehensive Math Roadmap for Machine Learning 
 
 This roadmap outlines the essential and advanced mathematical topics required for mastering machine learning. Follow these steps to build a robust theoretical foundation in mathematics for machine learning and deep learning.
 
