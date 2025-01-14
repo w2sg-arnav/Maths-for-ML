@@ -19,8 +19,13 @@ This roadmap outlines the essential and advanced mathematical topics required fo
 
 ### **Resources:**
 1. **Book:** Linear Algebra Done Right by Sheldon Axler
-2. **Course:** Essence of Linear Algebra by 3Blue1Brown (YouTube)
-3. **Course:** Linear Algebra for Machine Learning (Coursera)
+2. **Book** Matrix Calculus and Applications in Statistics by Jan R. Magnus and Heinz Neudecker
+3. **Book** Pattern Recognition and Machine Learning by Christopher M. Bishop
+4. **Book** Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+5. **Book** Linear Algebra for Machine Learning by Jason Brownlee
+6. **Book** Numerical Linear Algebra by Lloyd N. Trefethen and David Bau III
+7. **Course:** Essence of Linear Algebra by 3Blue1Brown (YouTube)
+8. **Course:** Linear Algebra for Machine Learning (Coursera)
 
 ---
 
