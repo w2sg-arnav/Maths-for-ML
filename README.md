@@ -47,8 +47,10 @@ This roadmap outlines the essential and advanced mathematical topics required fo
 
 ### **Resources:**
 1. **Book:** Think Stats by Allen B. Downey
-2. **Book:** Probability and Statistics for Machine Learning by Jason Brownlee
-3. **Course:** Statistical Learning by Stanford Online
+2. **Book** Murphy's Machine Learning: A Probabilistic Perspective.
+3. **Book** Bishop's Pattern Recognition and Machine Learning
+4. **Book:** Probability and Statistics for Machine Learning by Jason Brownlee
+5. **Course:** Statistical Learning by Stanford Online
 
 ---
 
